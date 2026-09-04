@@ -1,2 +1,2 @@
-# EngineeringProjects
-A couple WIP and completed engineering projects built by me!
+# These are my engineering projects built using C++ and mainly Arduino IDE.
+- Built by me using parts mostly found on Amazon!
