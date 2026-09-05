@@ -1,2 +1,3 @@
-# These are my engineering projects built mainly Arduino IDE.
-- Built by me using parts mostly found on Amazon!
+# Welcome to my Engineering Projects! 
+- Built using C++ and Arduino IDE
+- Parts can be found on Amazon unless otherwise stated. 
